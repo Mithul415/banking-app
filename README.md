@@ -18,7 +18,8 @@ customerName accountNumber accountType balance
 Example:
 
     Input : java BankingApp Mithul 12345 Savings 5000
+    
     Output : Account Summary
-    Customer Name : 12345
-    Account Number : Savings
-    Current Balance : 5000.00
+            Customer Name : 12345
+            Account Number : Savings
+            Current Balance : 5000.00
